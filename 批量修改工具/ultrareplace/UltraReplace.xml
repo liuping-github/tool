@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<str>
+	<Configure1>
+		<BackUp>0</BackUp>
+		<Subdir>1</Subdir>
+		<Case_Sensitive>1</Case_Sensitive>
+		<MutilReplace>0</MutilReplace>
+		<Force_ReadOnly>0</Force_ReadOnly>
+		<ReplaceType>1</ReplaceType>
+	</Configure1>
+	<Configure2>
+		<Language>Chinese_Simplified</Language>
+		<SelectFileExt>*.txt;*.htm;*.c;*.js;*.html</SelectFileExt>
+		<DefaultFileExt>*.txt;*.htm;*.c;*.cpp;*.h;*.hpp;*.pas;*.dpr;*.bpr;*.asp;*.php;*.cgi;*.ini;*.bat;*.inc;*.java;*.py;*.dfm;*.js;*.sql;*.html</DefaultFileExt>
+		<itsSelf>0</itsSelf>
+		<OutPutDir></OutPutDir>
+		<Extract_File_Source_Add>1</Extract_File_Source_Add>
+		<Extract_Add_Empty_Row>0</Extract_Add_Empty_Row>
+		<Extract_Include_Start>1</Extract_Include_Start>
+		<Extract_Include_End>1</Extract_Include_End>
+	</Configure2>
+	<History>
+		<Target></Target>
+		<NormalReplaceMemo1></NormalReplaceMemo1>
+		<NormalReplaceMemo2></NormalReplaceMemo2>
+		<CharacterReplaceMemo1></CharacterReplaceMemo1>
+		<CharacterReplaceMemo2></CharacterReplaceMemo2>
+		<CharacterReplaceMemo3></CharacterReplaceMemo3>
+		<RegexReplaceMemo1></RegexReplaceMemo1>
+		<RegexReplaceMemo2></RegexReplaceMemo2>
+	</History>
+	<MultiReplace>
+		<RepacleRulesFile>E:\MyProject\UltraReplace\MultiRules\6666666.nrr</RepacleRulesFile>
+	</MultiReplace>
+	<Other>
+		<DefaultEditer>notepad.exe</DefaultEditer>
+	</Other>
+</str>

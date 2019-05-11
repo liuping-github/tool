@@ -1,0 +1,13 @@
+有些游戏在运行时出现黑屏，无法正常运行等，主要是您的空间或服务器缺少相应文件的mime类型，请自行添加下这些类型。进入空间管理-->mime类型-->添加
+
+扩展名  应用程序
+.plist  application/xml
+.json  text/json
+.woff  application/octet-stream
+.ttf     application/octet-stream
+.svg   image/svg+xml
+.mp3  audio/mpeg
+.ogg   application/ogg
+.wav   audio/wav
+.m4a  audio/mpeg
+.fnt     text/html
